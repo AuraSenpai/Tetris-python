@@ -13,9 +13,10 @@ Install Pygame using pip:
 ```
 pip install pygame
 ```
-Usage
-Navigate to the project directory.
+Usage:
 
-Run the Tetris game script:
+1. Navigate to the project directory.
 
-python tetris.py
+2. Run the Tetris game script:
+
+3. python tetris.py

@@ -15,8 +15,8 @@ pip install pygame
 ```
 Usage:
 
-1. Navigate to the project directory.
+1. Navigate to the project directory
 
-2. Run the Tetris game script:
+2. Run the Tetris game script
 
 3. python tetris.py
